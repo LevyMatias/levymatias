@@ -30,7 +30,7 @@
 
 
 <div style="display: flex"></br>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMatias&layout=compact&theme=merko"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=LevyMatias&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyMatias&layout=compact&theme=merko"/>
 </div>
 
