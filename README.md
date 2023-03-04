@@ -1,18 +1,18 @@
 <h2 >Olá 👋, eu sou Levy</h2>
 
-<h3 >Eu gosto de tudo que envolve programação e tecnologia e amo programar e resolver problemas. Atualmente estudo desenvolvimento web com foco em frontend. Javascript, Html e Css é o que tenho mais estudado ultimamente. Estudo também, C# e Java e feito alguns projetos com eles. Tenho conhecimentos em protótipos de design em papel e digital no figma. Gosto também de outros assuntos de tecnologia e estudo um pouco sobre redes, hardware e computação gráfica.</h3> <img width="300px" style="border-radius: 400px" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<h3 >Eu sou Dev Front end apaixonado(a) por tecnologia e programação. Atualmente, estudando Javascript puro com um foco em aprender as melhores práticas antes de me aventurar nos frameworks.</h3> <img width="300px" style="border-radius: 400px" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levymatias&label=Profile%20views&color=0e75b6&style=flat" alt="levymatias" /> </p>
 
-- 👨‍💻 Atualmente estudando JavaScript, Html, Css, Bootstrap, Figma, Git..
+- 👨‍💻 Atualmente estudando JavaScript, Html, Css, Figma, Git..
 
 - 🎓 Atualmente estudando Tecnologia da Informação na Univesp
 
 - 👨‍💻 Atualmente estudando o CS50
 
-- 🌱 Atualmente estudando desenvolvimento Full Stack no programa Oracle One.
+- 🌱 Atualmente formado em desenvolvimento Full Stack no programa Oracle One.
 
-- 🌱 Atualmente estudando a certificação do google em design de ux na plataforma da coursera.
+- 🌱 Atualmente formado na certificação do google em design de ux na plataforma da coursera.
 
 - 📙 Atualmente estudando Inglês
 
