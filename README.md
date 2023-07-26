@@ -1,10 +1,5 @@
 <h2 >Olá 👋, eu sou Levy</h2>
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Olá 👋, eu sou Levy">
-</p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levymatias&label=Profile%20views&color=0e75b6&style=flat" alt="levymatias" /> </p>
 
 - 👨‍💻 Estudando JavaScript
