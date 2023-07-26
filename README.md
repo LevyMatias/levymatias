@@ -1,18 +1,19 @@
 <h2 >Olá 👋, eu sou Levy</h2>
 
-<h3 >Eu sou Dev Front end apaixonado(a) por tecnologia e programação. Atualmente, estudando Javascript puro com um foco em aprender as melhores práticas antes de me aventurar nos frameworks.</h3> <img width="300px" style="border-radius: 400px" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Olá 👋, eu sou Levy">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levymatias&label=Profile%20views&color=0e75b6&style=flat" alt="levymatias" /> </p>
 
-- 👨‍💻 Atualmente estudando JavaScript, Html, Css, Figma, Git..
+- 👨‍💻 Estudando JavaScript
 
-- 🎓 Atualmente estudando Tecnologia da Informação na Univesp
+- 🎓 Cursando 3° Semestre em Tecnologia da Informação na Univesp
 
-- 👨‍💻 Atualmente estudando o CS50
+- 👨‍💻 Estudando o curso de introdução a computação CS50 de Harvard
 
-- 🌱 Atualmente formado em desenvolvimento Full Stack no programa Oracle One.
-
-- 🌱 Atualmente formado na certificação do google em design de ux na plataforma da coursera.
+- 🌱 Atualmente cursando a certificação do google em IT Support na plataforma coursera.
 
 - 📙 Atualmente estudando Inglês
 
