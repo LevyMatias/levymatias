@@ -57,9 +57,9 @@ const levy = {
 
 <h2 align="center">:page_facing_up: Stats:</h2>
 <div align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=levymatias&show_icons=true&locale=en&layout=compact&theme=dark" alt="levymatias" />
   <img align="ce" src="https://github-readme-streak-stats.herokuapp.com/?user=levymatias&layout=compact&theme=dark" alt="levymatias" />
   <img align="" src="https://github-readme-stats.vercel.app/api?username=levymatias&show_icons=true&locale=en&layout=compact&theme=dark" alt="levymatias" />
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=levymatias&show_icons=true&locale=en&layout=compact&theme=dark" alt="levymatias" />
 </div>
 
 <div align="center">
