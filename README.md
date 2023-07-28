@@ -1,4 +1,6 @@
-<h2 >Olá 👋, eu sou Levy</h2>
+<p align="center">
+  <img src="https://github.com/LevyMatias/levymatias/raw/main/github/me-gif.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levymatias&label=Profile%20views&color=0e75b6&style=flat" alt="levymatias" /> </p>
 
