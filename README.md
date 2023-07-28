@@ -62,8 +62,5 @@ const levy = {
   <img align="" src="https://github-readme-stats.vercel.app/api?username=levymatias&show_icons=true&locale=en&layout=compact&theme=dark" alt="levymatias" />
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/LevyMatias/levymatias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LevyMatias/levymatias/blob/output/github-contribution-grid-snake.svg)
   
-</div>
