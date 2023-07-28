@@ -4,15 +4,40 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levymatias&label=Profile%20views&color=0e75b6&style=flat" alt="levymatias" /> </p>
 
-- 👨‍💻 Estudando JavaScript
+```javascript
+const levy = {
 
-- 🎓 Cursando 3° Semestre em Tecnologia da Informação na Univesp
+  frontEnd: {
+    coding: ["JavaScript", "HTML", "CSS"],
+    frameworks: ["React", "Tailwind", "Bootstrap", "Scss"],
+    tools: ["Vite", "Npm"],
+    design: ["Figma", "AdobeXD"]
+  },
 
-- 👨‍💻 Estudando o curso de introdução a computação CS50 de Harvard
+  backEnd: {
+    coding: ["Node.js", "Python", "C#"],
+    database: ["SQLite", "MongoDB"]
+  },
 
-- 🌱 Atualmente cursando a certificação do google em IT Support na plataforma coursera.
+  otherTools: ["VScode","Git","Vercel","Netlify"],
+  
+  goal: "💻 My primary goal is continuous growth as a developer, constantly learning and seeking opportunities
+        to contribute to groundbreaking projects, with a particular focus on exploring the vast universe of JavaScript.",
 
-- 📙 Atualmente estudando Inglês
+  studies: [
+      "👨‍💻 Studying JavaScript",
+      "🎓 Currently pursuing a 3rd Semester in Information Technology at Univesp",
+      "👨‍💻 Taking the Harvard CS50 introduction to computer science course",
+      "🌱 Currently pursuing the Google IT Support certification on Coursera",
+      "📙 Currently studying English"
+  ],
+  
+  interests: "🚀 Beyond coding, I'm also enthusiastic about studying systems and networks",
+    
+  contact: "📫 Let's connect! Feel free to explore my projects!"
+};
+
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
