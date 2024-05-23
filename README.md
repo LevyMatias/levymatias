@@ -26,9 +26,7 @@ const levy = {
 
   studies: [
       "👨‍💻 Studying ReactJS, NodeJS and TailwindCSS",
-      "🎓 Currently pursuing a 3rd Semester in Information Technology at Univesp",
-      "👨‍💻 Taking the Harvard CS50 introduction to computer science course",
-      "🌱 Currently pursuing the Google IT Support certification on Coursera",
+      "🎓 Currently pursuing a 5th Semester in Information Technology at Univesp",
       "📙 Currently studying English"
   ],
   
